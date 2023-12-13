@@ -1,0 +1,41 @@
+ul{
+    color: aqua;
+}
+
+.bright {
+  color: orange;
+  font-family: Arial;
+}
+
+body{
+margin:0;
+padding: 0;
+line-height: 1.6;
+font-size: 16px;
+}
+
+#header{
+position: relative;
+}
+
+#sm{
+float: left;
+position: absolute;
+margin-top: 16px;
+left: 176px; 
+} 
+
+#cross{
+float: right;
+margin-top: 96px;
+right: -176px;
+}
+.header{
+    background-color: red;
+    color: orange;
+}
+
+.section {
+     font-size: 20 px;
+     color: green;
+}
